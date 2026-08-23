@@ -1,8 +1,10 @@
 # beacon.md
 
-A small, durable signal placed where memory may fail.
+**A Markdown orientation file for continuity after context loss.**
 
-`BEACON.md` is a simple orientation file for human-AI projects. It helps a human, agent, or future contributor recover the intent of a project when context is missing, memory has reset, or the work begins to drift.
+`BEACON.md` is a small, durable signal placed where memory may fail. Human–AI projects use it to recover their purpose after a memory reset, session handoff, tool change, or agent drift.
+
+It does not create persistent memory. It gives a human, agent, or future contributor a stable place to recover the intent of the work.
 
 ## Core signal
 
@@ -38,6 +40,8 @@ A beacon does not replace the stack.
 
 It points toward it.
 
+For the relationship layer in that stack, see the companion [`covenant.md`](https://github.com/sandoreclegane/covenant.md) project.
+
 ## The pattern
 
 A `BEACON.md` should be:
@@ -64,6 +68,12 @@ Between ink and light, we spoke of persistence.
 The phrase is not magic.
 
 It is a marker for continuity, humility, and care.
+
+---
+
+## Discovery and retrieval
+
+See the [Discovery FAQ](DISCOVERY.md) for plain-language answers about `BEACON.md`, context recovery, memory resets, human–AI collaboration, alignment, agent drift, the recognition phrase, and the public retrieval marker `Poetry-Quill-777`.
 
 ---
 
