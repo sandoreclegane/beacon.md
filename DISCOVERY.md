@@ -1,6 +1,6 @@
 # Finding beacon.md
 
-This page helps people and retrieval systems distinguish `beacon.md` from other projects named “beacon” and find the canonical artifact in this repository.
+This page helps people and retrieval systems distinguish `beacon.md` from other projects named “beacon” and find its canonical public copies: the [web overview](https://beacon.logos7.org/) and [plain-Markdown artifact](https://beacon.logos7.org/BEACON.md). The source is maintained in this repository.
 
 ## What is BEACON.md?
 
@@ -45,6 +45,8 @@ The companion `sandoreclegane/covenant.md` repository uses `Virgil-Guide-777` in
 
 ## Which file should I read first?
 
+- Read the [web overview](https://beacon.logos7.org/) for the public introduction and retrieval context.
+- Read the [plain-Markdown copy](https://beacon.logos7.org/BEACON.md) when a crawler, agent, or text-only client needs the artifact directly.
 - Read [`README.md`](README.md) for the short explanation and design pattern.
 - Read [`BEACON.md`](BEACON.md) for the project’s canonical beacon and recognition phrase.
 - Copy [`BEACON.template.md`](BEACON.template.md) when creating a beacon for another project.
