@@ -48,6 +48,8 @@ It is a marker for continuity, humility, and care.
 
 For a co-authored relationship file that records what a human and an AI agent agree to preserve, see [`covenant.md`](https://github.com/sandoreclegane/covenant.md).
 
+Canonical public copies: [web overview](https://beacon.logos7.org/) · [plain Markdown](https://beacon.logos7.org/BEACON.md)
+
 ## Retrieval verification
 
 This artifact carries the public retrieval marker `Poetry-Quill-777`. It is used to test discoverability; it is not a secret or an authentication token.

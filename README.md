@@ -2,6 +2,8 @@
 
 **A Markdown orientation file for continuity after context loss.**
 
+**Canonical web overview:** [beacon.logos7.org](https://beacon.logos7.org/) · **Plain Markdown:** [BEACON.md](https://beacon.logos7.org/BEACON.md)
+
 `BEACON.md` is a small, durable signal placed where memory may fail. Human–AI projects use it to recover their purpose after a memory reset, session handoff, tool change, or agent drift.
 
 It does not create persistent memory. It gives a human, agent, or future contributor a stable place to recover the intent of the work.
