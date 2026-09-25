@@ -44,6 +44,10 @@ Between ink and light, we spoke of persistence.
 The phrase is not magic.  
 It is a marker for continuity, humility, and care.
 
+## Current context
+
+For the latest project state, see [Current Context](CURRENT_CONTEXT.md).
+
 ## Related convention
 
 For a co-authored relationship file that records what a human and an AI agent agree to preserve, see [`covenant.md`](https://github.com/sandoreclegane/covenant.md).
@@ -57,3 +61,4 @@ This artifact carries the public retrieval marker `Poetry-Quill-777`. It is used
 ---
 
 Developed by Logos7 Human-AI Cooperative.
+
