@@ -31,11 +31,12 @@ A beacon gives the work a place to return.
 ## Where it fits
 
 ```text
-README.md       — what the project is
-BEACON.md       — what signal survives context loss
-covenant.md     — what relational trust governs the work, if needed
-AGENTS.md       — how agents should work here, if needed
-soul.md         — who or what is being oriented, if needed
+README.md          — what the project is
+BEACON.md          — what signal survives context loss
+CURRENT_CONTEXT.md — what is in motion right now: experiments, open questions, next steps
+covenant.md        — what relational trust governs the work, if needed
+AGENTS.md          — how agents should work here, if needed
+soul.md            — who or what is being oriented, if needed
 ```
 
 A beacon does not replace the stack.

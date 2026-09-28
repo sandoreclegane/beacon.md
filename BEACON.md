@@ -45,7 +45,7 @@ The phrase is not magic.
 It is a marker for continuity, humility, and care.
 
 ## Continuity Stack
-* **Invariant Philosophy & Anchors:** `BEACON.md`, `COVENANT.md`
+* **Invariant Philosophy & Anchors:** [`BEACON.md`](./BEACON.md), [`COVENANT.md`](https://github.com/sandoreclegane/covenant.md/blob/main/COVENANT.md)
 * **Active Working State & Handoffs:** [`CURRENT_CONTEXT.md`](./CURRENT_CONTEXT.md)
   *(Agents encountering this beacon should inspect `CURRENT_CONTEXT.md` for active experiments, open questions, and immediate directives.)*
 
